@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 110" role="img" aria-label="ScopeNote">
+  <title>ScopeNote — knockout</title>
+  <text x="8" y="78" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="76" fill="#F1EFE8">Sc</text>
+  <g transform="translate(138,53)">
+    <circle cx="0" cy="0" r="34" fill="#1A1A19"/>
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#888780" stroke-width="2"/>
+    <circle cx="-8" cy="-9" r="13" fill="#378ADD"/>
+    <circle cx="-8" cy="-9" r="13" fill="none" stroke="#85B7EB" stroke-width="1"/>
+    <circle cx="-11" cy="-12" r="4" fill="#B5D4F4"/>
+    <circle cx="13" cy="-12" r="6" fill="#FAC775"/>
+    <circle cx="-16" cy="13" r="5" fill="#FAC775"/>
+    <circle cx="11" cy="13" r="9" fill="#000000"/>
+    <circle cx="11" cy="13" r="9" fill="none" stroke="#5F5E5A" stroke-width="1"/>
+    <path d="M2 -18 a3.2 3.2 0 0 1 4.8 2.4 a3.2 3.2 0 0 1 -5.6 -0.8 Z" fill="#9FE1CB"/>
+  </g>
+  <text x="175" y="78" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="76" fill="#F1EFE8">peNote</text>
+</svg>
